@@ -1,0 +1,8 @@
+C:\Users\HasKhan\Desktop\winKdvHesapla\winKdvHesapla\bin\Debug\winKdvHesapla.exe.config
+C:\Users\HasKhan\Desktop\winKdvHesapla\winKdvHesapla\bin\Debug\winKdvHesapla.exe
+C:\Users\HasKhan\Desktop\winKdvHesapla\winKdvHesapla\bin\Debug\winKdvHesapla.pdb
+C:\Users\HasKhan\Desktop\winKdvHesapla\winKdvHesapla\obj\Debug\winKdvHesapla.Form1.resources
+C:\Users\HasKhan\Desktop\winKdvHesapla\winKdvHesapla\obj\Debug\winKdvHesapla.Properties.Resources.resources
+C:\Users\HasKhan\Desktop\winKdvHesapla\winKdvHesapla\obj\Debug\winKdvHesapla.csproj.GenerateResource.Cache
+C:\Users\HasKhan\Desktop\winKdvHesapla\winKdvHesapla\obj\Debug\winKdvHesapla.exe
+C:\Users\HasKhan\Desktop\winKdvHesapla\winKdvHesapla\obj\Debug\winKdvHesapla.pdb
